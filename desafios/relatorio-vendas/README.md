@@ -31,7 +31,11 @@ A publicação foi confirmada pela mensagem de êxito no Power BI Desktop. O lin
 
 ## Evidências
 
+![Segunda página: vendas, unidades e lucro por país e período](evidencias/pagina-2.png)
+
 ![Terceira página com mapas e títulos ajustados](evidencias/pagina-3.png)
+
+A captura mais recente da terceira página exibe um aviso de futura descontinuação do tipo de mapa utilizado. Os mapas estão renderizando na captura; uma atualização do visual poderá ser necessária. Dois dos prints enviados mostram o mesmo conteúdo da terceira página, por isso foi incluída uma única captura dessa tela. A captura da primeira página ainda não foi adicionada.
 
 ![Publicação concluída](evidencias/publicacao.png)
 
